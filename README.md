@@ -81,9 +81,9 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="36" height="36" alt="Aws" />
 </a>
-<p align="left">
-
-</p>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+</a>
   
 <img src="https://komarev.com/ghpvc/?username=akrista&label=Profile%20views&color=0e75b6&style=flat" alt="akrista" />
   <a href="https://www.linkedin.com/in/akrista/">
