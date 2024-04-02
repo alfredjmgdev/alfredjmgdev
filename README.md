@@ -1,7 +1,7 @@
 <h1>Hi there 👋, Alfred over here</h1>
 <div align="left">
 
-<h2 align="left">Skills</h2>
+<h3 align="left"><b>Skills</b></h3>
 <h3 align="left">General</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
