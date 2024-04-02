@@ -1,5 +1,11 @@
-<h1>Hi there 👋, Alfred over here</h1>
+<h2>Hi there 👋, Alfred over here</h2>
 <div align="left">
+<p align="left">
+  holki
+</p>
+<p align="right">
+  holi 2
+</p>
 
 <h3 align="left"><b>Skills</b></h3>
 <h3 align="left">General</h3>
