@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<styles>
+<style>
   .general-icon{
     background-color: white;
   }
-</styles>
+</style>
 
 </br>
 <div align="left">
