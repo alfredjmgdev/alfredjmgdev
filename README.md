@@ -80,7 +80,7 @@
 <h3 align="left">Devops</h3>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="36" height="36" alt="Aws" />
-</a>a
+</a>
 <p align="left">
 
 </p>
