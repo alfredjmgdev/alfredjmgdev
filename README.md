@@ -1,18 +1,4 @@
 ### Hi there 👋
-
-<h1>Welcome</h1>
-
-<style>
-h1 {
-    background-image: url(./image.gif);
-    background-size: cover;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-}
-</style>
-
-</br>
 <div align="left">
 
 <h2 align="left">Skills</h2>
@@ -68,7 +54,7 @@ h1 {
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
 </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer" classname="general-icon">
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer" classname="general-icon" style="background-color: red">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="ExpressJS" />
 </a>
 <h3 align="left">Mobile</h3>
