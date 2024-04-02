@@ -107,6 +107,7 @@
     <img align="left" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
   </a>
 
+<div align="left">
   <p align="left">
     - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)
   </p>
@@ -118,6 +119,7 @@
     - 💬 Ask me about: **Docker, Linux, SQL, Laravel**
     - 📫 How to reach me: **info@notakrista.com**
     - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
+</div>
 
 </br>
 </br>
