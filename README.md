@@ -111,7 +111,7 @@
     <img align="left" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
   </a>
 
-  <p></p>
+  <p align="left"></p>
 
   <p align="left">
     - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)
