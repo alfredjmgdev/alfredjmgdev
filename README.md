@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+<h1>Welcome</h1>
+
 <style>
-  .general-icon{
-    background-color: white;
-  }
+h1 {
+    background-image: url(./image.gif);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
 </style>
 
 </br>
