@@ -3,9 +3,9 @@
 <p align="left">
   holki
 </p>
-<p align="right">
+<a align="right">
   holi 2
-</p>
+</a>
 
 <h3 align="left"><b>Skills</b></h3>
 <h3 align="left">General</h3>
