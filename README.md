@@ -101,19 +101,21 @@
     <img align="left" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
   </a>
 
-- 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
+  <div>
+    - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
 
-- ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.rs` , `.php`, `.js`, `.html`, `.css`**
-
-- 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Zig](https://github.com/ziglang/zig), [SvelteKit](https://kit.svelte.dev/)**
-
-- 👨‍💻 All of my projects are available at: **[https://github.com/Akrista](https://github.com/Akrista?tab=repositories)** _(It sure needs to be updated hehe...)_
-
-- 💬 Ask me about: **Docker, Linux, SQL, Laravel**
-
-- 📫 How to reach me: **info@notakrista.com**
-
-- 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
+    - ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.rs` , `.php`, `.js`, `.html`, `.css`**
+    
+    - 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Zig](https://github.com/ziglang/zig), [SvelteKit](https://kit.svelte.dev/)**
+    
+    - 👨‍💻 All of my projects are available at: **[https://github.com/Akrista](https://github.com/Akrista?tab=repositories)** _(It sure needs to be updated hehe...)_
+    
+    - 💬 Ask me about: **Docker, Linux, SQL, Laravel**
+    
+    - 📫 How to reach me: **info@notakrista.com**
+    
+    - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
+  </div>
 
 </br>
 </br>
