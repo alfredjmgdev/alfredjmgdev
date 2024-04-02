@@ -98,22 +98,8 @@
   </br>
   </br>
   <a href="https://discordapp.com/users/Akrista#1410">
-    <img align="right" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
+    <img align="left" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
   </a>
-  <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=akrista&theme=gruvbox&no-bg=true&row=2&column=3&no-frame=true" alt="akrista" />
-      </a>
-  </p>
-
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&redirect=true" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://spotify-github-profile.vercel.app/api/view uid=21ca7hmfvx4lpeb37y7fs2vpq&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false"
-      alt="Akrista's Spotify"
-    />
-</a>
 
 - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
 
