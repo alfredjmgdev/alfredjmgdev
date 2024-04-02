@@ -101,7 +101,7 @@
     <img align="left" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
   </a>
 
-  <p>
+  <p align="left">
     - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
     - ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.rs` , `.php`, `.js`, `.html`, `.css`**
     - 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Zig](https://github.com/ziglang/zig), [SvelteKit](https://kit.svelte.dev/)**
