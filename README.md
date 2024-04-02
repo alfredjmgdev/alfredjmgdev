@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<styles>
+  .general-icon{
+    background-color: white;
+  }
+</styles>
+
 </br>
 <div align="left">
 
@@ -56,7 +62,7 @@
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
 </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer" classname="general-icon">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="ExpressJS" />
 </a>
 <h3 align="left">Mobile</h3>
