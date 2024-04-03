@@ -25,7 +25,7 @@
   
   - 📫 How to reach me: **alfredjmgdev@gmail.com**
 
-  - 📫 Check my Linktree: **[Linktree]([https://www.cleveritgroup.com/](https://linktr.ee/alfredjmgdev))**
+  - 🔗 Check my Linktree: **[Linktree]([https://www.cleveritgroup.com/](https://linktr.ee/alfredjmgdev))**
   
   - 📄 Know about my experiences: **[Check my Resume!](https://www.alfredjmg.dev/cv/CV_EN-Alfredo-Mujica.pdf) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
 </p>
