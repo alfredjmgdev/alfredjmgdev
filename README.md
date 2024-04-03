@@ -1,4 +1,4 @@
-<h2>Hi there 👋, Alfred over here</h2>
+<h1 align="center">Hi there 👋, Alfred over here</h2>
 <div align="left">
 <p align="left">
   holki
