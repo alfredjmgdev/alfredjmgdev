@@ -86,44 +86,23 @@
 </a>
 <p></p>
   
-<img src="https://komarev.com/ghpvc/?username=akrista&label=Profile%20views&color=0e75b6&style=flat" alt="akrista" />
-  <a href="https://www.linkedin.com/in/akrista/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat&color=0072b1&label=LinkedIn&message=%E2%9B%B3"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://twitter.com/akristax">
-    <img
-      src="https://img.shields.io/badge/follow-%40akristax-1DA1F2?logo=twitter&style=flat&label=Twitter&color=0072b1&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.youtube.com/channel/UCXJa_ZGSEtalwFNbsupmjtg">
-    <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCXJa_ZGSEtalwFNbsupmjtg?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Youtube">
-  </a>
-  <a href="https://discord.com/users/1101165509820555304">
-    <img alt="Discord" src="https://img.shields.io/discord/354241190947717120?style=flat&color=0072b1&logoColor=ffffff&logo=discord&label=Discord">
-  </a>
-  </br>
-  </br>
-  <a href="https://discordapp.com/users/Akrista#1410">
-    <img align="left" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
-  </a>
+<a href="https://discordapp.com/users/Akrista#1410">
+  <img align="left" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
+</a>
 
-  <p align="left"></p>
+<p align="left"></p>
 
-  <p align="left">
-    - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)
-  </p>
-  <p align="left">
-    - ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.rs` , `.php`, `.js`, `.html`, `.css`
-  </p>
-    - 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Zig](https://github.com/ziglang/zig), [SvelteKit](https://kit.svelte.dev/)
-    - 👨‍💻 All of my projects are available at: **[https://github.com/Akrista](https://github.com/Akrista?tab=repositories)** _(It sure needs to be updated hehe...)_
-    - 💬 Ask me about: **Docker, Linux, SQL, Laravel
-    - 📫 How to reach me: **info@notakrista.com
-    - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)
+<p align="left">
+  - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)
+</p>
+<p align="left">
+  - ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.rs` , `.php`, `.js`, `.html`, `.css`
+</p>
+  - 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Zig](https://github.com/ziglang/zig), [SvelteKit](https://kit.svelte.dev/)
+  - 👨‍💻 All of my projects are available at: **[https://github.com/Akrista](https://github.com/Akrista?tab=repositories)** _(It sure needs to be updated hehe...)_
+  - 💬 Ask me about: **Docker, Linux, SQL, Laravel
+  - 📫 How to reach me: **info@notakrista.com
+  - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)
 
 </br>
 </br>
