@@ -25,7 +25,7 @@
   
   - 📫 How to reach me: **alfredjmgdev@gmail.com**
   
-  - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
+  - 📄 Know about my experiences: **[Check my Resume!](https://www.alfredjmg.dev/cv/CV_EN-Alfredo-Mujica.pdf) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
 </p>
 
 </br>
