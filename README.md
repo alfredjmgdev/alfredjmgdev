@@ -30,7 +30,7 @@
 
 </br>
 
-<h2 align="left"><b>Developer Skills</b></h2>
+<h2 align="left"><b>Developer skills</b></h2>
 
 <h3 align="left">General</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -125,6 +125,11 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 </a>
 <p></p>
+
+<h2 align="left"><b>Design skills</b></h2>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
+</a>
   
 <a href="https://discordapp.com/users/Akrista#1410">
   <img align="left" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
