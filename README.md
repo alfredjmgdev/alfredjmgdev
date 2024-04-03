@@ -73,6 +73,12 @@
 </a>
 
 <h3 align="left">Mobile</h3>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="MySQL" />
+</a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactNative" />
+</a>
 
 <h3 align="left">Databases</h3>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
