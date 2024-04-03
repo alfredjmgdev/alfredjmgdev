@@ -132,7 +132,8 @@
 </a>
 
 <p align="left"></p>
-</hr>
+
+---
   
 <a href="https://discordapp.com/users/Akrista#1410">
   <img align="left" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
