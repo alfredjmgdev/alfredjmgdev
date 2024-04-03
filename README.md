@@ -30,7 +30,7 @@
 
 </br>
 
-<h2 align="left"><b>Skills</b></h2>
+<h2 align="left"><b>Developer Skills</b></h2>
 
 <h3 align="left">General</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
