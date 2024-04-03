@@ -21,7 +21,7 @@
   - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
 </p>
 
-<h3 align="left"><b>Skills</b></h3>
+<h2 align="left"><b>Skills</b></h2>
 
 <h3 align="left">General</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
