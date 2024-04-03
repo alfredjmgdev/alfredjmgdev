@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, Alfred over here</h2>
 <div align="left">
   
-  <h3 align="left">
+  <h4 align="left">
     Fullstack developer with 5 years of experience, focused on the world of software development. My goal is to aim to find IT solutions for organizations and startups applying the use of Javascript, Node.Js, Express, Nest.Js, React.js and relational or non-relational databases. Passionate about the technological world, always looking for challenges looking for challenges to grow as a professional day by day. My goal is the proactive search for solutions in software development. software development. I am interested in working in FindTech, FoodTech, PropTech, or Startups.  
-  </h3>
+  </h4>
 <p align="left">
   
   - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
