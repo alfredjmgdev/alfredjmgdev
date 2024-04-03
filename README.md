@@ -1,11 +1,25 @@
 <h1 align="center">Hi there 👋, Alfred over here</h2>
 <div align="left">
+  
+  <h3 align="left">
+    Fullstack developer with 5 years of experience, focused on the world of software development. My goal is to aim to find IT solutions for organizations and startups applying the use of Javascript, Node.Js, Express, Nest.Js, React.js and relational or non-relational databases. Passionate about the technological world, always looking for challenges looking for challenges to grow as a professional day by day. My goal is the proactive search for solutions in software development. software development. I am interested in working in FindTech, FoodTech, PropTech, or Startups.  
+  </h3>
 <p align="left">
-  holki
+  
+  - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
+
+  - ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.rs` , `.php`, `.js`, `.html`, `.css`**
+  
+  - 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Zig](https://github.com/ziglang/zig), [SvelteKit](https://kit.svelte.dev/)**
+  
+  - 👨‍💻 All of my projects are available at: **[https://github.com/Akrista](https://github.com/Akrista?tab=repositories)** _(It sure needs to be updated hehe...)_
+  
+  - 💬 Ask me about: **Docker, Linux, SQL, Laravel**
+  
+  - 📫 How to reach me: **info@notakrista.com**
+  
+  - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
 </p>
-<a align="right">
-  holi 2
-</a>
 
 <h3 align="left"><b>Skills</b></h3>
 
