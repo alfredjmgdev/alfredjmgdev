@@ -9,19 +9,19 @@
   
 <p align="left">
   
-  - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
+  - 🔭 I’m currently working on: **[Cleverit Group](https://www.cleveritgroup.com/)**
 
-  - ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.rs` , `.php`, `.js`, `.html`, `.css`**
+  - ⚙️ I use daily: **`.js`, `.ts`, `.tsx`, `.css`, `.py` , `.php`, `.cs`, `.html`**
   
-  - 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Zig](https://github.com/ziglang/zig), [SvelteKit](https://kit.svelte.dev/)**
+  - 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [React Native](https://reactnative.dev/), [AWS](https://aws.amazon.com//)**
   
-  - 👨‍💻 All of my projects are available at: **[https://github.com/Akrista](https://github.com/Akrista?tab=repositories)** _(It sure needs to be updated hehe...)_
+  - 👨‍💻 All of my projects are available at: **[https://github.com/alfredjmgdev](https://github.com/alfredjmgdev?tab=repositories)** _(Still improving...)_
   
-  - 💬 Ask me about: **Docker, Linux, SQL, Laravel**
+  - 💬 Ask me about: **Javascript, Typescript, Css, Linux, SQL**
   
-  - 📫 How to reach me: **info@notakrista.com**
+  - 📫 How to reach me: **alfredjmgdev@gmail.com**
   
-  - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
+  - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
 </p>
 
 </br>
