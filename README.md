@@ -6,7 +6,7 @@
   </h4>
 
   <p align="center">
-    <img src="https://www.alfredjmg.dev/cv/alfred-avatar.png"> 
+    <img src="https://www.alfredjmg.dev/cv/alfred-avatar-transparent.png"> 
   </p>
   
   </br>
