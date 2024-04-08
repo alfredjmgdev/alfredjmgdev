@@ -6,7 +6,7 @@
   </h4>
 
   <p align="center">
-    <img src="https://storage.alfredjmg.dev/remote.php/dav/files/nextcloud/cv/alfred-avatar-tr.png"> 
+    <img src="https://storage.alfredjmg.dev/s/pppe4nLwfEysnPB"> 
   </p>
   
   </br>
