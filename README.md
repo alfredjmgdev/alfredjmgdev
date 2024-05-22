@@ -97,7 +97,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="LAravel" />
 </a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer" classname="general-icon">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java" width="36" height="36" alt="LAravel" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java.svg" width="36" height="36" alt="LAravel" />
 </a>
 
 <h3 align="left">Mobile</h3>
