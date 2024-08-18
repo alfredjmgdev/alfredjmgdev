@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, Alfred over here</h2>
+https://storage.alfredjmg.dev/s/HX9kTktKqMHAPgc/preview<h1 align="center">Hi there 👋, Alfred over here</h2>
 <div align="left">
   
   <h4 align="left">
@@ -27,7 +27,7 @@
 
   - 🔗 Check my Linktree: **[Linktree](https://linktr.ee/alfredjmgdev)**
   
-  - 📄 Know about my experiences: **[Check my Resume!](https://storage.alfredjmg.dev/s/YiK3mdmRHbMN47f) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
+  - 📄 Know about my experiences: **[Check my Resume!](https://storage.alfredjmg.dev/s/HX9kTktKqMHAPgc) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
 </p>
 
 </br>
