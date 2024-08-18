@@ -1,4 +1,4 @@
-https://storage.alfredjmg.dev/s/HX9kTktKqMHAPgc/preview<h1 align="center">Hi there 👋, Alfred over here</h2>
+<h1 align="center">Hi there 👋, Alfred over here</h2>
 <div align="left">
   
   <h4 align="left">
