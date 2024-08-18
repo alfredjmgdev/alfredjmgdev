@@ -28,6 +28,8 @@
   - 🔗 Check my Linktree: **[Linktree](https://linktr.ee/alfredjmgdev)**
   
   - 📄 Know about my experiences: **[Check my Resume!](https://storage.alfredjmg.dev/s/KQw4TQBFCAzcNtK){:target="_blank" rel="noopener"} or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
+
+  - 📄 Know about my experiences: **<span><a href="[https://developer.mozilla.org/en-US/docs/Glossary/HTML5](https://storage.alfredjmg.dev/s/KQw4TQBFCAzcNtK)" target="_blank" rel="noreferrer">Check my Resume!<a/> <span/> or <span>[My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**<span/>
 </p>
 
 </br>
