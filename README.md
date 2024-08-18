@@ -2,7 +2,7 @@
 <div align="left">
   
   <h4 align="left">
-    Fullstack developer with 5 years of experience, focused on the world of software development. My goal is to aim to find IT solutions for organizations and startups applying the use of Javascript, Node.Js, Express, Nest.Js, React.js and relational or non-relational databases. Passionate about the technological world, always looking for challenges looking for challenges to grow as a professional day by day. My goal is the proactive search for solutions in software development. software development. I am interested in working in FindTech, FoodTech, PropTech, or Startups.  
+    Fullstack developer with 6 years of experience, focused on the world of software development. My goal is to aim to find IT solutions for organizations and startups applying the use of Javascript, Node.Js, Express, Nest.Js, React.js and relational or non-relational databases. Passionate about the technological world, always looking for challenges looking for challenges to grow as a professional day by day. My goal is the proactive search for solutions in software development. software development. I am interested in working in FindTech, FoodTech, PropTech, or Startups.  
   </h4>
 
   <p align="center">
@@ -27,7 +27,7 @@
 
   - 🔗 Check my Linktree: **[Linktree](https://linktr.ee/alfredjmgdev)**
   
-  - 📄 Know about my experiences: **[Check my Resume!](https://storage.alfredjmg.dev/s/HX9kTktKqMHAPgc) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
+  - 📄 Know about my experiences: **[Check my Resume!](https://storage.alfredjmg.dev/s/KQw4TQBFCAzcNtK) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
 </p>
 
 </br>
@@ -139,11 +139,6 @@
 <p align="left"></p>
 
 ---
-  
-<a href="https://discordapp.com/users/Akrista#1410">
-  <img align="left" src="https://lanyard.cnrad.dev/api/1101165509820555304" alt="alfredjmgdev" />
-</a>
-<p align="left"></p>
 
 </br>
 </br>
