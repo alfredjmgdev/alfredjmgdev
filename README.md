@@ -27,7 +27,7 @@
 
   - 🔗 Check my Linktree: **[Linktree](https://linktr.ee/alfredjmgdev)**
   
-  - 📄 Know about my experiences: **[Check my Resume!](https://storage.alfredjmg.dev/s/zsdsmqY8n7qo4Aj) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
+  - 📄 Know about my experiences: **[Check my Resume!](https://storage.alfredjmg.dev/s/4x37B4zCGSdZYtB) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
 </p>
 
 </br>
