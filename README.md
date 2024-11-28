@@ -5,11 +5,11 @@
     Fullstack developer with 6 years of experience, focused on the world of software development. My goal is to aim to find IT solutions for organizations and startups applying the use of Javascript, Node.Js, Express, Nest.Js, React.js and relational or non-relational databases. Passionate about the technological world, always looking for challenges looking for challenges to grow as a professional day by day. My goal is the proactive search for solutions in software development. software development. I am interested in working in FindTech, FoodTech, PropTech, or Startups.  
   </h4>
 
-  <h2 align="left"><b>Developer skills</b></h2>
+<p align="center">
+  <img src="https://storage.alfredjmg.dev/s/GTF75G4G95Adf3r/preview"> 
+</p>
 
-  <p align="center">
-    <img src="https://storage.alfredjmg.dev/s/GTF75G4G95Adf3r/preview"> 
-  </p>
+<h2 align="left"><b>Developer skills</b></h2>
   
   </br>
   
