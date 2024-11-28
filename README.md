@@ -34,7 +34,9 @@
 
 </br>
 
-<h2 align="left"><b>Developer skills</b></h2>
+<h2 align="left"><b>
+Systems Engineer, National Experimental Polytechnic University 'Antonio José de Sucre', Venezuela
+</b></h2>
 
 <h3 align="left">General</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
