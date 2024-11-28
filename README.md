@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://storage.alfredjmg.dev/s/GTF75G4G95Adf3r/preview"> 
 </p>
+<p align="center">
+  Senior FullStack Engineer 
+</p>
 
 <h1 align="center">Hi there 👋, Alfred over here</h2>
 <div align="left">
