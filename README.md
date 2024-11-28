@@ -9,7 +9,9 @@
   <img src="https://storage.alfredjmg.dev/s/GTF75G4G95Adf3r/preview"> 
 </p>
 
-<h2 align="left"><b>Developer skills</b></h2>
+<h2 align="left"><b>
+Systems Engineer, National Experimental Polytechnic University 'Antonio José de Sucre', Venezuela
+</b></h2>
   
   </br>
   
@@ -35,7 +37,7 @@
 </br>
 
 <h2 align="left"><b>
-Systems Engineer, National Experimental Polytechnic University 'Antonio José de Sucre', Venezuela
+Developer skills
 </b></h2>
 
 <h3 align="left">General</h3>
