@@ -60,6 +60,8 @@
 
 -   👨‍💻 All of my projects are available at: **[https://github.com/alfredjmgdev](https://github.com/alfredjmgdev?tab=repositories)** _(Still improving...)_
 
+-   💼 Check out my portfolio: **[www.alfredjmg.dev](https://www.alfredjmg.dev/)**
+
 -   💬 Ask me about: **Javascript, Typescript, NodeJS, ReactJS, Linux, SQL**
 
 -   📫 How to reach me: **alfredjmgdev@gmail.com**
