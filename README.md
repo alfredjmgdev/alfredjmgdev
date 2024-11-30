@@ -145,11 +145,9 @@ Developer skills
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<h2 align="left"><b>Github</b></h2>
 
-<p align="left"></p>
-
----
+![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredjmgdev&show_icons=true&theme=radical)
 
 </br>
 </br>
