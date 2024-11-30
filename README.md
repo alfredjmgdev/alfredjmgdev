@@ -2,7 +2,7 @@
   <img src="https://storage.alfredjmg.dev/s/GTF75G4G95Adf3r/preview"> 
 </p>
 <p align="center">
-  <h2 align="left">
+  <h5 align="left">
     <b>
       Senior FullStack Engineer 
     </b>
