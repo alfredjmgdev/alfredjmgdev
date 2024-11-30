@@ -149,7 +149,7 @@ Developer skills
 
 ![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredjmgdev&show_icons=true&theme=radical)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredjmgdev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredjmgdev\&layout=compact)
 
 </br>
 </br>
