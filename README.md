@@ -27,6 +27,9 @@
     <a href="https://linktr.ee/alfredjmgdev">
       <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
     </a>
+    <a href="https://www.behance.net/alfred_drawing">
+      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+    </a>
   </p>
 </div>
 
