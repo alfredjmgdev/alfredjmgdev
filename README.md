@@ -37,7 +37,7 @@ Systems Engineer, National Experimental Polytechnic University 'Antonio José de
   
   - 👨‍💻 All of my projects are available at: **[https://github.com/alfredjmgdev](https://github.com/alfredjmgdev?tab=repositories)** _(Still improving...)_
   
-  - 💬 Ask me about: **Javascript, Typescript, Css, Linux, SQL**
+  - 💬 Ask me about: **Javascript, Typescript, NodeJS, ReactJS, Linux, SQL**
   
   - 📫 How to reach me: **alfredjmgdev@gmail.com**
 
