@@ -5,13 +5,15 @@
     <img src="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="50">
   </picture>
   <p align="center">
-  <b>
-    Senior FullStack Engineer 
-  </b>
 </p>
 </p>
 <p align="center">
   <img src="https://storage.alfredjmg.dev/s/GTF75G4G95Adf3r/preview"> 
+</p>
+<p align="center">
+<b>
+    Senior FullStack Engineer 
+  </b>
 </p>
 
 <h1 align="center">Hi there 👋, Alfred over here</h2>
@@ -31,19 +33,19 @@ Systems Engineer, National Experimental Polytechnic University 'Antonio José de
   
   - 🔭 I’m currently working on: **[Cleverit Group](https://www.cleveritgroup.com/)**
 
-  - ⚙️ I use daily: **`.js`, `.ts`, `.tsx`, `.css`, `.py` , `.php`, `.cs`, `.html`**
-  
-  - 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [React Native](https://reactnative.dev/), [AWS](https://aws.amazon.com//)**
-  
-  - 👨‍💻 All of my projects are available at: **[https://github.com/alfredjmgdev](https://github.com/alfredjmgdev?tab=repositories)** _(Still improving...)_
-  
-  - 💬 Ask me about: **Javascript, Typescript, NodeJS, ReactJS, Linux, SQL**
-  
-  - 📫 How to reach me: **alfredjmgdev@gmail.com**
+-   ⚙️ I use daily: **`.js`, `.ts`, `.tsx`, `.css`, `.py` , `.php`, `.cs`, `.html`**
 
-  - 🔗 Check my Linktree: **[Linktree](https://linktr.ee/alfredjmgdev)**
-  
-  - 📄 Know about my experiences: **[Check my Resume!](https://storage.alfredjmg.dev/s/iXyP9SwcXo7ySfq) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
+-   🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [React Native](https://reactnative.dev/), [AWS](https://aws.amazon.com//)**
+
+-   👨‍💻 All of my projects are available at: **[https://github.com/alfredjmgdev](https://github.com/alfredjmgdev?tab=repositories)** _(Still improving...)_
+
+-   💬 Ask me about: **Javascript, Typescript, NodeJS, ReactJS, Linux, SQL**
+
+-   📫 How to reach me: **alfredjmgdev@gmail.com**
+
+-   🔗 Check my Linktree: **[Linktree](https://linktr.ee/alfredjmgdev)**
+
+-   📄 Know about my experiences: **[Check my Resume!](https://storage.alfredjmg.dev/s/iXyP9SwcXo7ySfq) or [My LinkedIn](https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/)**
 </p>
 
 </br>
@@ -159,7 +161,7 @@ Developer skills
 ![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredjmgdev&show_icons=true&theme=transparent)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredjmgdev&theme=transparent" alt="mystreak"/>
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredjmgdev\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredjmgdev&layout=compact)
 
 </br>
 </br>
