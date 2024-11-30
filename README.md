@@ -148,7 +148,7 @@ Developer skills
 <h2 align="left"><b>Github</b></h2>
 
 ![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredjmgdev&show_icons=true&theme=transparent)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredjmgdev&theme=dracula" alt="transparent"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alfredjmgdev&theme=transparent" alt="mystreak"/>
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredjmgdev\&layout=compact)
 
