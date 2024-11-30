@@ -4,14 +4,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="100">
     <img src="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="50">
   </picture>
-</p>
-<p align="center">
-  <img src="https://storage.alfredjmg.dev/s/GTF75G4G95Adf3r/preview"> 
-</p>
-<p align="center">
+  <p align="center">
   <b>
     Senior FullStack Engineer 
   </b>
+</p>
+</p>
+<p align="center">
+  <img src="https://storage.alfredjmg.dev/s/GTF75G4G95Adf3r/preview"> 
 </p>
 
 <h1 align="center">Hi there 👋, Alfred over here</h2>
