@@ -1,3 +1,4 @@
+<div>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="100" style="filter: invert(100%)">
@@ -6,6 +7,7 @@
   </picture>
   <p align="center">
 </p>
+<h1 align="center">Hi there 👋, Alfred over here</h2>
 </p>
 <p align="center">
   <img src="https://storage.alfredjmg.dev/s/GTF75G4G95Adf3r/preview"> 
@@ -15,17 +17,30 @@
     Senior FullStack Engineer 
   </b>
 </p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:alfredjmgdev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://linktr.ee/alfredjmgdev">
+      <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+    </a>
+  </p>
+</div>
 
-<h1 align="center">Hi there 👋, Alfred over here</h2>
 <div align="left">
   
   <h4 align="left">
     Fullstack developer with 6 years of experience, focused on the world of software development. My goal is to aim to find IT solutions for organizations and startups applying the use of Javascript, Node.Js, Express, Nest.Js, React.js and relational or non-relational databases. Passionate about the technological world, always looking for challenges looking for challenges to grow as a professional day by day. My goal is the proactive search for solutions in software development. software development. I am interested in working in FindTech, FoodTech, PropTech, or Startups.  
   </h4>
 
-<h2 align="left"><b>
-Systems Engineer, National Experimental Polytechnic University 'Antonio José de Sucre', Venezuela
-</b></h2>
+<h2 align="left">
+  <b>
+    Systems Engineer, National Experimental Polytechnic University 'Antonio José de Sucre', Venezuela
+  </b>
+</h2>
   
   </br>
   
