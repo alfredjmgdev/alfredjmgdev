@@ -30,6 +30,9 @@
     <a href="https://www.behance.net/alfred_drawing">
       <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
     </a>
+    <a href="https://www.alfredjmg.dev/">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    </a>
   </p>
 </div>
 
