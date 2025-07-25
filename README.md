@@ -10,7 +10,7 @@
 <h1 align="center">Hi there 👋, Alfred over here</h2>
 </p>
 <p align="center">
-  <img src="https://storage.alfredjmg.dev/s/yLMRoWTE5toi7AD"> 
+  <img src="https://storage.alfredjmg.dev/s/yLMRoWTE5toi7AD/preview"> 
 </p>
 <p align="center">
 <b>
