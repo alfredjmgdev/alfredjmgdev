@@ -39,7 +39,7 @@
 <div align="left">
   
   <h4 align="left">
-    Fullstack developer with 7 years of experience, focused on the world of software development. My goal is to aim to find IT solutions for organizations and startups applying the use of Javascript, Node.Js, Express, Nest.Js, React.js and relational or non-relational databases. Passionate about the technological world, always looking for challenges looking for challenges to grow as a professional day by day. My goal is the proactive search for solutions in software development. software development. I am interested in working in FindTech, FoodTech, PropTech, or Startups.  
+    Senior Full-stack Developer with over 8 years of experience designing and developing robust, scalable, and maintainable web and mobile applications. Strong expertise in JavaScript, TypeScript, React.js, Next.js, Node.js, Nest.js, Flutter, and React Native, building solutions across the full development stack. Proficient in crafting modern, responsive user interfaces with an emphasis on UI/UX best practices, accessibility, and performance, as well as developing high-performance backend services, APIs, and microservices following clean architecture and event-driven patterns. Experienced with cloud platforms like AWS, GCP, and Azure, and committed to delivering clean, efficient code in agile environments. 
   </h4>
 
 <h2 align="left">
