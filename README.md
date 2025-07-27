@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="100" style="filter: invert(100%)">
     <source media="(prefers-color-scheme: light)" srcset="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="100">
-    <img src="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="20">
+    <img src="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="15">
   </picture>
   <p align="center">
 </p>
