@@ -51,8 +51,6 @@
   </br>
   
 <p align="left">
-  
-  - 🔭 I’m currently working on: **[Cleverit Group](https://www.cleveritgroup.com/)**
 
 -   ⚙️ I use daily: **`.js`, `.ts`, `.tsx`, `.css`, `.py` , `.php`, `.cs`, `.html`**
 
