@@ -99,13 +99,3 @@ Senior Full-stack Developer with over **10 years of experience** designing and d
     </td>
   </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alfredjmgdev&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://metrics.lecoq.io/alfredjmgdev?config_timezone=America/Caracas" width="800" alt="GitHub Metrics" />
-</div>
