@@ -39,7 +39,7 @@
 <div align="left">
   
   <h4 align="left">
-    Senior Full-stack Developer with over 8 years of experience designing and developing robust, scalable, and maintainable web and mobile applications. Strong expertise in JavaScript, TypeScript, React.js, Next.js, Node.js, Nest.js, Flutter, and React Native, building solutions across the full development stack. Proficient in crafting modern, responsive user interfaces with an emphasis on UI/UX best practices, accessibility, and performance, as well as developing high-performance backend services, APIs, and microservices following clean architecture and event-driven patterns. Experienced with cloud platforms like AWS, GCP, and Azure, and committed to delivering clean, efficient code in agile environments. 
+    Senior Full-stack Developer with over <b>10 years of experience</b> designing and developing robust, scalable, and maintainable web and mobile applications. Strong expertise in <b>JavaScript, TypeScript, React.js, Next.js, Node.js, and Nest.js</b>, building solutions across the full development stack. Proficient in crafting modern, responsive user interfaces with an emphasis on UI/UX best practices, as well as developing high-performance backend services, APIs, and microservices following <b>clean architecture and event-driven patterns</b>. Experienced with cloud platforms like <b>AWS, GCP, and Azure</b>, and committed to delivering clean, efficient code in agile environments. 
   </h4>
 
 <h2 align="left">
@@ -52,7 +52,7 @@
   
 <p align="left">
 
--   ⚙️ I use daily: **`.js`, `.ts`, `.tsx`, `.css`, `.py` , `.php`, `.cs`, `.html`**
+-   ⚙️ Core focus: **Hexagonal Architecture, Microservices, Clean Code & SOLID principles**
 
 -   🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [React Native](https://reactnative.dev/), [AWS](https://aws.amazon.com//)**
 
@@ -179,13 +179,13 @@ Developer skills
 
 <h2 align="left"><b>Github</b></h2>
 
-![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredjmgdev&show_icons=true&theme=transparent)
-</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredjmgdev&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfredjmgdev&show_icons=true&bg_color=00000000&title_color=2F80ED&text_color=ffffff&icon_color=2F80ED&hide_border=true" alt="Alfred's GitHub stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredjmgdev&layout=compact&bg_color=00000000&title_color=2F80ED&text_color=ffffff&hide_border=true" alt="Top Langs" />
+</div>
 
-</br>
-</br>
-</br>
 </br>
 </br>
 
