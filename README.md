@@ -1,12 +1,4 @@
 <div>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="100" style="filter: invert(100%)">
-    <source media="(prefers-color-scheme: light)" srcset="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="100">
-    <img src="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="15" style="width: 20%">
-  </picture>
-  <p align="center">
-</p>
 <h1 align="center">Hi there 👋, Alfred over here</h2> 
 </p>
 <p align="center">
@@ -16,6 +8,14 @@
 <b>
     Senior FullStack Engineer 
   </b>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="100" style="filter: invert(100%)">
+    <source media="(prefers-color-scheme: light)" srcset="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="100">
+    <img src="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="15" style="width: 20%">
+  </picture>
+  <p align="center">
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/alfredo-mujica-godoy-04bab5161/">
