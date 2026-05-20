@@ -7,7 +7,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview">
     <source media="(prefers-color-scheme: light)" srcset="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview">
-    <img src="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="30" alt="M Logo">
+    <img src="https://storage.alfredjmg.dev/s/aj9BonynPJmySBj/preview" width="120" alt="M Logo">
   </picture>
   
   <br/><br/>
@@ -105,6 +105,7 @@ Senior Full-stack Developer with over **10 years of experience** designing and d
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredjmgdev&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Alfred's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredjmgdev&layout=donut&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=alfredjmgdev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://metrics.lecoq.io/alfredjmgdev?config_timezone=America/Caracas" width="800" alt="GitHub Metrics" />
 </div>
